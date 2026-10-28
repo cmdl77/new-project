@@ -40,6 +40,18 @@
       "created_at": "2026-10-28T06:15:40.786Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "a5eda713-3380-489d-802b-a71cbc138240",
+      "role": "agent",
+      "content": "Du kannst dir die Live-Vorschau deines Projekts direkt auf dem iPhone über diesen Link ansehen:\n\n👉 **[Projekt öffnen](https://antigravity.luch.dev/site/51580c6b-d6df-4304-9d3a-63ae95708dc8/3bd87612f4fdc765a339caf5/)**  \n*(Der Link öffnet sich direkt in der App bzw. im Browser und zeigt den aktuellen Stand deines Projekts – jeweils wenige Sekunden nach Fertigstellung aktualisiert).*\n\n---\n\nFalls du den **Code** deiner Projekte überall griffbereit haben möchtest:\n* Tippe einfach oben im Chat auf das **GitHub-Symbol**, um ein Repository zu verbinden.\n* Dein kompletter Projektverlauf wird automatisch dorthin übertragen, sodass du auch auf anderen Geräten jederzeit Zugriff darauf hast.",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "6e98331c-8606-4323-98b8-1ec0a0fc2a68",
+      "created_at": "2026-10-28T06:15:51.987Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
