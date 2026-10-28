@@ -3,6 +3,31 @@
   "name": "Test",
   "createdAt": "2026-10-28T06:10:24.165Z",
   "filename": "535d7cab-a994-46b1-bd5e-2bbf64f84dcd.json",
-  "geminiStarted": false,
-  "messages": []
+  "geminiStarted": true,
+  "messages": [
+    {
+      "id": "1f21cd29-082f-4d17-8bc8-3be07edf81b4",
+      "role": "user",
+      "content": "Test",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-28T06:13:13.011Z",
+      "sender": "ios",
+      "is_cancelled": false
+    },
+    {
+      "id": "49c1caef-7375-492d-8e39-75fea2bdd42e",
+      "role": "agent",
+      "content": "Systems are operational and ready. How can I help you today? What would you like to build?",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "1f21cd29-082f-4d17-8bc8-3be07edf81b4",
+      "created_at": "2026-10-28T06:13:23.703Z",
+      "sender": "macOS",
+      "is_cancelled": false
+    }
+  ]
 }
